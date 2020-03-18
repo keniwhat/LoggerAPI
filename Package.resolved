@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/keniwhat/swift-log.git",
+        "state": {
+          "branch": "master",
+          "revision": "4bb987f3f103019816812ed9a937db8c3ea2e2ad",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
